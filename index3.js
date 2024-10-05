@@ -1,0 +1,1 @@
+console.log('Gitって超便利！');
